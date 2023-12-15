@@ -143,6 +143,7 @@ L4D2@UESTC有着许多令人期待的未来计划，其中一些包括：
 - [ ] 1. 一个监控服务器状态的Panel?
 - [ ] 2. 一个可以供大家上传地图的Page?
 - [ ] 3. 一个可以供大家上传MOD的Archieve?
+- [ ] 4. 一个更棒的前端在[l4d2-at-uestc.github.io](l4d2-at-uestc.github.io)?
 
 这些计划将进一步丰富社区的功能，提升成员的游戏体验，使L4D2@UESTC成为更具活力和吸引力的社区。
 
@@ -152,7 +153,7 @@ L4D2@UESTC有着许多令人期待的未来计划，其中一些包括：
 
 - [x] 1. 通过QQ群联系：`454200336`
 - [x] 2. 通过Steam用户组联系：[L4D2@UESTC](https://steamcommunity.com/groups/uestc_l4d2)
-- [x] 3. 联系我们的邮箱：[L4D2@UESTC](mailto:l4d2atuestc@163.com)
+- [x] 3. 联系我们的邮箱：[L4D2@UESTC](mailto://l4d2atuestc@163.com)
 - [x] 4. 通过Telegram联系：[L4D2@UESTC](https://t.me/+IZ0qS3WdcihlZDBl)
   4. KOOK群组：[L4D2@UESTC](https://kook.top/oRgQKl)
 - [ ] 5. 通过Discord联系：[L4D2@UESTC](https://discord.gg/)
