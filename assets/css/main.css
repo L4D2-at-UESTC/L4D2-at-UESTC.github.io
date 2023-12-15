@@ -1304,11 +1304,13 @@ input, select, textarea {
 					margin-bottom: 0;
 				}
 
+
 			#header .content p {
 				text-transform: uppercase;
 				letter-spacing: 0.2rem;
 				font-size: 0.8rem;
 				line-height: 2;
+				margin-bottom: 0rem;
 			}
 
 		#header nav ul {
@@ -1438,8 +1440,8 @@ input, select, textarea {
 
 		@media screen and (max-width: 480px) {
 
-			#header {
-				padding: 1.5rem 0;
+			#p .content.inner .detaild{
+					margin-bottom: 0;	
 			}
 
 				#header .content .inner {
