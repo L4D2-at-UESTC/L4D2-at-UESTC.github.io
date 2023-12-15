@@ -33,7 +33,7 @@ L4D2拥有大量的官方和社区制作的地图，提供了丰富多样的游�
 
 ### UESTC是什么？
 
-*UESTC*，即University of Electronic Science and Technology of China，中文名为电子科技大学，**属于大专类院校**，学校官网简称泥电。*以下以**泥电**简称*。~~学校内网较为封闭、为少数几所不开放镜像站的0x3D9高校之一~~，因此**我们很抱歉无法提供外网服务**。
+*UESTC*，即University of Electronic Science and Technology of China，中文名为电子科技大学，~~属于大专类院校~~，学校民间简称泥电。*以下以**泥电**简称*。~~学校内网较为封闭、为少数几所不开放镜像站的0x3D9高校之一~~，因此**我们很抱歉无法提供外网服务**。
 
 ### L4D2@UESTC是什么？
 
